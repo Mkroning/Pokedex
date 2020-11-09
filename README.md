@@ -1,13 +1,13 @@
 # Pokedex
 
-# Scripts Disponíveis
+## Scripts Disponíveis
 No diretório do projeto, você pode executar:
 
-## npm install
+### npm install
 Você deverá executar esse comando para instalar as dependecias
 utilizadas no projeto
 
-## npm start
+### npm start
 Executa o aplicativo no modo de desenvolvimento.
 Abra http://localhost:3000 para visualizá-lo no navegador.
 
